@@ -16,7 +16,7 @@
         </style>
     </head>
     <body>
-<h1 id="content">Are you happy for tamilar thirunal Pongal 2025?</h1>
+<h1 id="content">are you happy for tamilar thirunal Pongal 2025?</h1>
 <button id="b1">Yes</button>
 <button id="b2">No</button>
 
